@@ -1,0 +1,271 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+.header-nav{
+    padding: 20px 0;
+}
+.navbar-brand img{
+    max-width: 100%;
+    width: 150px;
+}
+.nav-link{
+    font-size: 18px;
+    margin-left: 15px;
+}
+.navbar-collapse .get{    
+    background: #004673;    
+    color: #fff;    
+    padding: 10px 30px;   
+    border-radius: 25px;
+}
+.header-banner{
+    padding: 100px 0;
+}
+.header-banner h2{      
+    font-size: 44px;     
+    color: #184579;      
+    width: 80%;     
+    font-weight: 700;
+}
+.header-banner p{      
+    font-size: 20px;      
+    margin: 30px 0 40px 0;
+}
+.header-banner h3{      
+    font-size: 20px;
+    margin-top: 30px;
+}
+.header-banner a{      
+    font-size: 18px;      
+    font-weight: 700;
+    text-decoration: none;
+}
+.header-banner .cta-left{     
+    background: #184579;      
+    color: #fff;      
+    padding: 17px 23px;
+}
+.header-banner .cta-right{      
+    color: #184579;     
+    margin-left: 20px;
+}
+.header-banner img{     
+    max-width: 100%;
+}
+
+/* style for brand section */
+.brand{
+    background: #F1F4FB;
+    padding: 40px 0;
+}
+.brand h3{   
+    font-size: 27px;   
+    color: #004673;    
+    margin-bottom: 40px;
+}
+.brand-logo{   
+    width: 85%;   
+    margin: 0 auto;
+}
+
+/* style for product fix section */
+.product-fix{
+    padding: 100px 0;
+}
+.fix-heading{
+    text-align: center;
+}
+.fix-heading h3{   
+    font-size: 40px;    
+    color: #004673;    
+    font-weight: 600;    
+    margin-bottom: 20px;
+}
+.fix-heading p{   
+    font-size: 20px;   
+    width: 55%;   
+    margin: 0 auto;
+}
+.fix-content{
+    padding: 100px 50px;
+}
+.fix-content img{
+    max-width: 90%;
+}
+.fix-content h3{   
+    font-size: 32px;   
+    color: #004673;    
+    width: 90%;    
+    margin: 30px 0;
+}
+.fix-content p{   
+    font-size: 18px;
+}
+.refund-check{
+    max-width: 40%;
+    margin-bottom: 30px;
+}
+
+/* style for reinforce all section */
+.reinforce{
+
+}
+.reinforce-heading{
+    text-align: center;
+    padding: 50px 0;
+}
+.reinforce-heading h2{   
+    font-size: 40px;    
+    color: #004673;   
+    width: 80%;    
+    margin: 0 auto;
+}
+.reinforce-content{
+    padding: 60px 50px;
+}
+.reinforce-content h3{   
+    font-size: 32px;   
+    color: #004673;   
+    width: 85%;    
+    margin: 30px 0;
+}
+.reinforce-content p{   
+    font-size: 18px;   
+    margin-bottom: 20px;
+}
+.reinforce-content h4{   
+    font-size: 35px;
+}
+.reinforce-content h3 span{
+    background: #638EA9;
+}
+.reinforce-icon{
+    text-align: center;
+    border: 6px solid #E5ECF1;
+    padding: 50px 20px;
+    width: 80%;
+    border-radius: 20px;
+    margin-left: auto;
+}
+.reinforce-icon h3{   
+    font-size: 20px;   
+    width: 95%;   
+    margin: 0 auto;
+}
+.reinforce-icon p{   
+    width: 90%;    
+    margin: 0 auto;
+}
+.reinforce-icon img{   
+    max-width: 35%;
+}
+.reinforce-icon-2{
+    text-align: center;
+    border: 6px solid #E5ECF1;
+    padding: 50px 20px;
+    width: 80%;
+    border-radius: 20px;
+    margin-right: auto;
+}
+.reinforce-icon-2 h3{   
+    font-size: 20px;   
+    width: 95%;   
+    margin: 0 auto;
+}
+.reinforce-icon-2 p{   
+    width: 90%;    
+    margin: 0 auto;
+}
+.reinforce-icon-2 img{   
+    max-width: 35%;
+}
+
+/* style for primary section */
+.primary{
+    background: #F4F8FE;
+}
+.primary-content{
+    text-align: center;
+    padding-top: 30px;
+}
+.primary-content img{   
+    max-width: 30%;
+}
+.primary-content h3{   
+    font-size: 21px;   
+    margin-top: 30px;
+}
+.primary-content p{   
+    width: 85%;    
+    margin: 15px auto;    
+    color: #7E7A7A;
+}
+
+/* style for FAQs section */
+.faqs{
+    position: relative;
+    padding: 50px 0;
+}
+.faqs-sticky{
+    position: sticky;
+    top: 40px;
+    max-width: 400px;
+}
+.faqs-sticky h3{   
+    font-size: 34px;   
+    color: #002F88;    
+    margin: 15px 0;
+}
+.faqs-sticky p{   
+    font-size: 17px;
+}
+.faqs-sticky p a{
+    
+}
+.faqs .col-lg-8 a{   
+    display: block;   
+    font-size: 17px;   
+    text-decoration: none;    
+    padding: 15px 0;   
+    border-bottom: 2px solid;    
+    color: #002F88;
+}
+
+/* style for sign-up section */
+.sign-up{
+    padding: 100px 0;
+    background: #F4F8FE;
+    text-align: center;
+}
+.sign-up h3{   
+    font-size: 40px;   
+    color: #002F88;   
+    margin-bottom: 20px;
+}
+.sign-up p{   
+    font-size: 20px;   
+    width: 60%;    
+    margin: 0 auto;
+}
+
+/* style for footer */
+footer{
+    padding: 50px 0;
+}
+footer img{    
+width: 170px;
+}
+footer p{   
+    margin-top: 10px;
+}
+footer h3{   
+    font-size: 20px;
+}
+footer a{    
+    display: block;    
+    text-decoration: none !important;   
+    color: #1d0817;
+}
+

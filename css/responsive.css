@@ -1,0 +1,66 @@
+@media all and (max-width: 426px){
+    .header-banner h2{            
+        width: 100%;
+    }
+    .header-banner a{      
+        display: block;
+    }
+    .brand-logo{   
+        width: 85%;   
+        margin: 10px auto;
+    }
+    .fix-heading p{   
+        width: 90%%;
+    }
+    .fix-content{
+        padding: 100px 50px;
+    }
+    .fix-content img{
+        max-width: 100%;
+    }
+    .fix-content h3{    
+        width: 100%;
+    }
+    .refund-check{
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+    .reinforce-heading h2{   
+        width: 100%;
+    }
+    .reinforce-content{
+        padding: 60px 50px;
+    }
+    .reinforce-content h3{   
+        width: 100%;
+    }
+    .reinforce-icon{
+        padding: 0;
+        width: 100%;
+        margin-left: inherit;
+    }
+    .reinforce-icon h3{   
+        font-size: 20px;   
+        width: 100%;
+    }
+    .reinforce-icon p{   
+        width: 100%;
+    }
+    .reinforce-icon img{   
+        max-width: 35%;
+    }
+    .reinforce-icon-2{
+        padding: 0;
+        width: 100%;
+        margin-right: inherit;
+    }
+    .reinforce-icon-2 h3{   
+        width: 100%;
+    }
+    .reinforce-icon-2 p{   
+        width: 100%;
+    }
+    .reinforce-icon-2 img{   
+        max-width: 35%;
+    } 
+}
